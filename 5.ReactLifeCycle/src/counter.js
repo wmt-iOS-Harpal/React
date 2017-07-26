@@ -70,6 +70,7 @@ export default class Counter extends React.Component {
     //Do clean up stuff hear
     componentWillUnmount() {
       console.log("componentWillUnmount");
+
     }
 
 
